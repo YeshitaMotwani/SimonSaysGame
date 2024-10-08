@@ -1,2 +1,2 @@
 # SimonSaysGame
-A frontend webpage of SimonSays Game
+A frontend webpage of SimonSays Game.
